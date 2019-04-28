@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCP1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>Z_BOOK_AREA</ID>
+     <TYPE>TMV</TYPE>
+     <REFTYPE>IMG</REFTYPE>
+     <REFNAME>368DDFAB3AB96CCFE10000009B38F976</REFNAME>
+     <ORGID>/CUSTOMER/</ORGID>
+     <COMPONENT>SAP_BASIS</COMPONENT>
+     <MINRELEASE>731</MINRELEASE>
+     <MAXRELEASE>*</MAXRELEASE>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>D</LANGU>
+      <ID>Z_BOOK_AREA</ID>
+      <VERSION>N</VERSION>
+      <TEXT>Kochbuch: Bereiche für Self Service</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>

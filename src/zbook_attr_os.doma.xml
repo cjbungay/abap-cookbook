@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DOMVALUE_L>LINUX</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DOMVALUE_L>WINXP</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DOMVALUE_L>WIN7</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DOMVALUE_L>WIN8</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DOMVALUE_L>OSX</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZBOOK_ATTR_OS</DOMNAME>
+     <VALPOS>0006</VALPOS>
+    </DD07V>
+   </DD07V_TAB>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD01_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Kochbuch: Attribut &quot;Betriebssystem&quot;</DDTEXT>
+    </item>
+   </DD01_TEXTS>
+   <DD07_TEXTS>
+    <item>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>LINUX</DOMVALUE_L>
+     <DDTEXT>Linux</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>WINXP</DOMVALUE_L>
+     <DDTEXT>Windows XP</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>WIN7</DOMVALUE_L>
+     <DDTEXT>Windows 7</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>WIN8</DOMVALUE_L>
+     <DDTEXT>Windows 8</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>OSX</DOMVALUE_L>
+     <DDTEXT>Mac OS/X</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Leer</DDTEXT>
+    </item>
+   </DD07_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
